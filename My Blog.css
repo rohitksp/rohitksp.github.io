@@ -43,3 +43,26 @@ h1 {
 #create {
     margin-right: 55%;
 }
+@media screen and (max-width:50%) {
+    div {
+        width: 20%;
+    }
+    body {
+        width: 100%;
+    }
+    #hello {
+        width: 51.4%;
+    }
+    #size {
+        width: 54%;
+    }
+    #create {
+        width: 54%;
+    }
+    h2 {
+        width: 1%;
+    }
+    h1 {
+        width: 0.5%;
+    }
+}
