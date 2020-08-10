@@ -2,14 +2,12 @@ h2 {
     text-transform: uppercase;
     color: #3498db;
     letter-spacing: 3px;
-    font-family: Source sans pro;
     font-size: 1.2em;
 }
 div {
     border: 15px solid #bdc3c7;
     margin: 10px 20%;
     padding: 20px;
-    font-family: Source sans pro;
     padding-top: 5px;
     padding-bottom: 5px;
     background:rgba(50, 50, 50, 0.2)
@@ -23,11 +21,12 @@ div {
     padding-bottom: 20px;
 }
 body {
-    background-image: linear-gradient(rgba(10, 10, 10, 0.2), rgba(10, 10, 10, 0.8)),
+    background-image: linear-gradient(rgba(10, 10, 10, 0.5), rgba(10, 10, 10, 0.5)),
                       url("https://i.pinimg.com/originals/38/d2/34/38d23470c6f19bd1fa1d6ab14081525e.jpg");
     color: white;
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
+    font-family: Source sans pro;
 }
 h1 {
     border: 2px solid #bdc3c7;
