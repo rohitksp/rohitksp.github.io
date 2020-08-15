@@ -1,0 +1,9 @@
+a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
+.heading {
+    position: absolute;
+    padding: 5% 0 0 5%;
+}
